@@ -388,3 +388,4 @@ For questions or technical issues related to Lab 2, please contact:
 
 - **Lab Assistant:** Ali Emre KÜÇÜKKURT  
   **Email:** [aliemrekucukkurt@eskisehir.edu.tr](mailto:aliemrekucukkurt@eskisehir.edu.tr)
+Lab 2 update on feature branch
